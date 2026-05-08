@@ -8,10 +8,10 @@ A simple Python CLI tool that reads a text file and prints the most common words
 
 ```bash
 # Print top 10 words (default)
-python wordfreq.py sample.txt
+python3 wordfreq.py sample.txt
 
 # Print top N words
-python wordfreq.py sample.txt --top 5
+python3 wordfreq.py sample.txt --top 5
 ```
 
 ### Example output
